@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "610851291533",
+    "firebase_url": "https://mapfirebaseproject-d4fb5.firebaseio.com",
+    "project_id": "mapfirebaseproject-d4fb5",
+    "storage_bucket": "mapfirebaseproject-d4fb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610851291533:android:cfad3e3b95a6e94f",
+        "android_client_info": {
+          "package_name": "mobilife.ankit.com.map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610851291533-mnh205qtpkrjkv86chu4b7aj6fp49lib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobilife.ankit.com.map",
+            "certificate_hash": "d7f4732d3d025e40d1191b1a8caa5d31251eeb94"
+          }
+        },
+        {
+          "client_id": "610851291533-23ovcamqbre6q64p6ai7gqfprs6gnr3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCau2KBfjD0xgtsC9eXSAYdC1p0FcV8hUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610851291533-23ovcamqbre6q64p6ai7gqfprs6gnr3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
